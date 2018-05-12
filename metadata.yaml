@@ -1,0 +1,26 @@
+_repo: Der-brennende-Dornbusch-M-rder.-Hoffnung-der-Frauen_46231
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46231-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Kokoschka, Oskar
+    birthdate: 1886
+    deathdate: 1980
+    gutenberg_agent_id: '43670'
+    url: http://www.gutenberg.org/2009/agents/43670
+description: ''
+gutenberg_issued: '2014-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46231'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+title: 'Der brennende Dornbusch; Mörder: Hoffnung der Frauen'
+url: http://www.gutenberg.org/ebooks/46231
